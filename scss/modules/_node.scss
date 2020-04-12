@@ -28,3 +28,16 @@
     white-space: nowrap;
   }
 }
+
+.firmware-unknown {
+  color: $color-unknown;
+  font-weight: bold;
+}
+
+.firmware-outdated {
+  color: $color-warning;
+}
+
+.firmware-up-to-date {
+  color: $color-stable;
+}
