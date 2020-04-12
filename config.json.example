@@ -78,6 +78,6 @@
     "deprecation_enabled": true,
     "firmware": {
       "enabled": true,
-      "url": "https://dl.ffm.freifunk.net/firmware/versions.json"
+      "url": "https://firmware.services.ffffm.net/images/versions.json"
     }
   }
