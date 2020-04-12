@@ -75,5 +75,9 @@
       }
     ],
     "deprecation_text": "Hier kann ein eigener Text für die Deprecation Warning (inkl. HTML) stehen!",
-    "deprecation_enabled": true
+    "deprecation_enabled": true,
+    "firmware": {
+      "enabled": true,
+      "url": "https://dl.ffm.freifunk.net/firmware/versions.json"
+    }
   }
